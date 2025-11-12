@@ -1,0 +1,7 @@
+[project]
+name = "poe_voice_maker"
+version = "0.1.0"
+description = "poe_voice_maker"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

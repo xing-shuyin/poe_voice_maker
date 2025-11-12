@@ -1,0 +1,6 @@
+{
+    "appid": "812121212",
+    "access_token": "asdasd_FtiR91HxGylLICQVaQXHZk5",
+    "voice_type": "zh_female_meilinvyou_moon_bigtts",
+    "cluster": "volcano_tts",
+}
