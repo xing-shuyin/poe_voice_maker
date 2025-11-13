@@ -63,7 +63,7 @@
 
 ### 4. 运行语音生成脚本
 
-（此处假设你有相应的 Python 或客户端脚本，根据你的实际代码补充运行方式，例如：）
+https://github.com/xing-shuyin/poe_voice_maker/releases
 
 ```bash
 poe_voice_maker.exe
