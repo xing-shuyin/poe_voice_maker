@@ -18,7 +18,7 @@
 
 ### 1. 开通火山语音合成大模型服务
 
-- 前往 https://www.volcengine.com/product/tts 
+- 前往 https://console.volcengine.com/ark/region:ark+cn-beijing/tts/speechSynthesis
 - 开通 **按量付费服务（1 元即可）** 或使用 **新用户试用**。
 - 开通后获取以下必要信息：
 
